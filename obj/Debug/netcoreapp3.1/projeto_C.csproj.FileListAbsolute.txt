@@ -1,0 +1,13 @@
+C:\Users\joemy\projeto_C\bin\Debug\netcoreapp3.1\projeto_C.exe
+C:\Users\joemy\projeto_C\bin\Debug\netcoreapp3.1\projeto_C.deps.json
+C:\Users\joemy\projeto_C\bin\Debug\netcoreapp3.1\projeto_C.runtimeconfig.json
+C:\Users\joemy\projeto_C\bin\Debug\netcoreapp3.1\projeto_C.runtimeconfig.dev.json
+C:\Users\joemy\projeto_C\bin\Debug\netcoreapp3.1\projeto_C.dll
+C:\Users\joemy\projeto_C\bin\Debug\netcoreapp3.1\projeto_C.pdb
+C:\Users\joemy\projeto_C\obj\Debug\netcoreapp3.1\projeto_C.csprojAssemblyReference.cache
+C:\Users\joemy\projeto_C\obj\Debug\netcoreapp3.1\projeto_C.AssemblyInfoInputs.cache
+C:\Users\joemy\projeto_C\obj\Debug\netcoreapp3.1\projeto_C.AssemblyInfo.cs
+C:\Users\joemy\projeto_C\obj\Debug\netcoreapp3.1\projeto_C.csproj.CoreCompileInputs.cache
+C:\Users\joemy\projeto_C\obj\Debug\netcoreapp3.1\projeto_C.dll
+C:\Users\joemy\projeto_C\obj\Debug\netcoreapp3.1\projeto_C.pdb
+C:\Users\joemy\projeto_C\obj\Debug\netcoreapp3.1\projeto_C.genruntimeconfig.cache
